@@ -8,7 +8,9 @@
 	<!-- Nombre para la aplicación -->
 	<display-name>GM1_i02abhak_P3</display-name>
 
-	<!-- Configuración de parámetros de entorno -->
+	<!-- Configuración de parámetros de entorno 
+		 Credenciales de la base de datos de la práctica: son las que se pidieron para que el profesorado pudiera corregirla.
+		 La base de datos solo es accesibe desde la red de la UCO y todos los datos en ella son ficticios -->
 	<env-entry>
 		<env-entry-name>url</env-entry-name>
 		<env-entry-type>java.lang.String</env-entry-type>
